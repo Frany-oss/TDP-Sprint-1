@@ -1,0 +1,11 @@
+
+// FVector en unreal engine 4
+// FRotator 
+// FTransform
+
+Lshoulder, Lelbow, Lhip // world coordinates
+
+rel_elbow = Lelbow - LShoulder
+rel_hip = Lhip - LShoulder
+
+InverseTransformDirection(LShoulderTransform, rel_elbow)

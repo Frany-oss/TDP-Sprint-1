@@ -1,0 +1,4 @@
+https://datatofish.com/executable-pyinstaller/
+https://towardsdatascience.com/how-to-easily-convert-a-python-script-to-an-executable-file-exe-4966e253c7e9
+https://www.quora.com/How-can-I-compile-multiple-Python-program-files-into-a-single-executable
+https://stackoverflow.com/questions/51455765/how-to-build-multiple-py-files-into-a-single-executable-file-using-pyinstaller
